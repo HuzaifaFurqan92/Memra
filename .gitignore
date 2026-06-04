@@ -1,0 +1,22 @@
+# Environments
+venv/
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+memra.db
+*.db
+*.sqlite3
+
+# Personal notes (Optional but recommended)
+diary.md
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+ui.py
