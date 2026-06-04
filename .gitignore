@@ -20,3 +20,5 @@ diary.md
 Thumbs.db
 
 ui.py
+auth_setup.py
+test.py
